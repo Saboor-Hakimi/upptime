@@ -7,8 +7,17 @@ sites:
     url: https://saboor.rocks
   - name: ASEELAPP
     url: https://aseelapp.com
-  - name: REDASH
-    url: https://redash.aseelapp.com
+  - name: Jobs.af
+    url: https://jobs.af
+  - name: Login to HesabPay
+    url: https://api.hesab.af/2.0/api/login
+    method: POST
+  - name: HEMIS
+    check: "tcp-ping"
+    url: 149.54.12.140
+    port: 22
+
+
 
 status-website: # Status website (optional)
   cname: upptime.saboor.rocks # Custom domain CNAME
