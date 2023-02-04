@@ -10,8 +10,7 @@ sites:
   - name: Jobs.af
     url: https://jobs.af
   - name: Login to HesabPay
-    url: https://api.hesab.af/2.0/api/login
-    method: POST
+    url: https://api.hesab.af/
   - name: HEMIS
     check: "tcp-ping"
     url: 149.54.12.140
