@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 152,
-    "timeWeek": 206,
-    "timeMonth": 206,
-    "timeYear": 206,
+    "time": 250,
+    "timeDay": 326,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/aseelapp.com.ico",
     "slug": "aseelapp",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
-    "time": 5465,
-    "timeDay": 5569,
-    "timeWeek": 5465,
-    "timeMonth": 5465,
-    "timeYear": 5465,
-    "dailyMinutesDown": {
-      "2023-02-04": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5483,
+    "timeDay": 5725,
+    "timeWeek": 5483,
+    "timeMonth": 5483,
+    "timeYear": 5483,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jobs.af",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2036,
-    "timeDay": 2036,
-    "timeWeek": 2036,
-    "timeMonth": 2036,
-    "timeYear": 2036,
+    "time": 1872,
+    "timeDay": 1872,
+    "timeWeek": 1872,
+    "timeMonth": 1872,
+    "timeYear": 1872,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1256,
-    "timeDay": 1256,
-    "timeWeek": 1256,
-    "timeMonth": 1256,
-    "timeYear": 1256,
+    "time": 1252,
+    "timeDay": 1252,
+    "timeWeek": 1252,
+    "timeMonth": 1252,
+    "timeYear": 1252,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 242,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 232,
+    "timeDay": 232,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   }
 ]
