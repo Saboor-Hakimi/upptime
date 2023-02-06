@@ -22,19 +22,19 @@
     "url": "https://aseelapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/aseelapp.com.ico",
     "slug": "aseelapp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5483,
-    "timeDay": 5480,
-    "timeWeek": 5483,
-    "timeMonth": 5483,
-    "timeYear": 5483,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 5578,
+    "timeDay": 6146,
+    "timeWeek": 5578,
+    "timeMonth": 5578,
+    "timeYear": 5578,
     "dailyMinutesDown": {
-      "2023-02-06": 0
+      "2023-02-06": 22
     }
   },
   {
