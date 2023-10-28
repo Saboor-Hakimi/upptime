@@ -13,6 +13,8 @@ sites:
     check: "tcp-ping"
     url: 149.54.12.140
     port: 22
+  - name: Rahanet Movie AF
+    url: http://movie.af/
 
 
 
