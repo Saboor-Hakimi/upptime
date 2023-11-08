@@ -6,7 +6,7 @@
     "slug": "aseelapp",
     "status": "down",
     "uptime": "96.23%",
-    "uptimeDay": "98.65%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "96.92%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "96.23%",
@@ -16,7 +16,7 @@
     "timeMonth": 2445,
     "timeYear": 1812,
     "dailyMinutesDown": {
-      "2023-11-08": 0,
+      "2023-11-08": 1,
       "2023-11-07": 19,
       "2023-11-06": 121,
       "2023-11-05": 65,
