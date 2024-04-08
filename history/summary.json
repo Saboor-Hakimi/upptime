@@ -81,10 +81,10 @@
     "url": "https://jobs.af",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.af.ico",
     "slug": "jobs-af",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2003,
@@ -92,7 +92,9 @@
     "timeWeek": 2057,
     "timeMonth": 1904,
     "timeYear": 2024,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-08": 1
+    }
   },
   {
     "name": "Login to HesabPay",
@@ -118,18 +120,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
     "status": "down",
-    "uptime": "89.98%",
+    "uptime": "89.96%",
     "uptimeDay": "28.75%",
     "uptimeWeek": "68.03%",
-    "uptimeMonth": "90.32%",
-    "uptimeYear": "88.23%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "88.20%",
     "time": 240,
     "timeDay": 218,
     "timeWeek": 230,
     "timeMonth": 234,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2024-04-08": 32,
+      "2024-04-08": 174,
       "2024-04-07": 1027,
       "2024-04-06": 985,
       "2024-04-05": 687,
