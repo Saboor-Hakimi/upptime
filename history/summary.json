@@ -6,7 +6,7 @@
     "slug": "aseelapp",
     "status": "up",
     "uptime": "97.66%",
-    "uptimeDay": "65.46%",
+    "uptimeDay": "69.94%",
     "uptimeWeek": "94.23%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.15%",
@@ -219,18 +219,19 @@
     "url": "http://movie.af/",
     "icon": "https://icons.duckduckgo.com/ip3/movie.af.ico",
     "slug": "rahanet-movie-af",
-    "status": "up",
-    "uptime": "97.72%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.74%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "89.03%",
-    "uptimeYear": "97.72%",
-    "time": 1380,
-    "timeDay": 1048,
-    "timeWeek": 995,
-    "timeMonth": 1220,
-    "timeYear": 1380,
+    "uptimeYear": "97.74%",
+    "time": 1381,
+    "timeDay": 1100,
+    "timeWeek": 1009,
+    "timeMonth": 1221,
+    "timeYear": 1381,
     "dailyMinutesDown": {
+      "2024-06-05": 0,
       "2024-06-01": 52,
       "2024-05-30": 36,
       "2024-05-29": 27,
@@ -262,7 +263,7 @@
       "2024-01-07": 55,
       "2023-11-30": 92,
       "2023-11-15": 20,
-      "2023-11-02": 430
+      "2023-11-02": 361
     }
   }
 ]
