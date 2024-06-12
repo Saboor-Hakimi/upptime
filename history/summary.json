@@ -107,9 +107,9 @@
     "url": "149.54.12.140",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
-    "status": "up",
-    "uptime": "91.80%",
-    "uptimeDay": "49.44%",
+    "status": "down",
+    "uptime": "92.00%",
+    "uptimeDay": "49.43%",
     "uptimeWeek": "92.52%",
     "uptimeMonth": "93.96%",
     "uptimeYear": "90.37%",
@@ -217,17 +217,17 @@
     "slug": "rahanet-movie-af",
     "status": "up",
     "uptime": "97.90%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "94.65%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "94.70%",
     "uptimeYear": "97.90%",
     "time": 1359,
     "timeDay": 1251,
-    "timeWeek": 1095,
-    "timeMonth": 1183,
+    "timeWeek": 1101,
+    "timeMonth": 1185,
     "timeYear": 1359,
     "dailyMinutesDown": {
-      "2024-06-12": 30,
+      "2024-06-12": 20,
       "2024-06-11": 17,
       "2024-06-10": 35,
       "2024-06-08": 46,
@@ -258,7 +258,8 @@
       "2024-05-04": 261,
       "2024-05-03": 327,
       "2024-05-02": 487,
-      "2024-05-01": 286
+      "2024-05-01": 286,
+      "2024-04-24": 19
     }
   }
 ]
