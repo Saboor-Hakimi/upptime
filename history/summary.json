@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
-    "time": 1199,
-    "timeDay": 278,
-    "timeWeek": 528,
-    "timeMonth": 535,
+    "time": 1200,
+    "timeDay": 661,
+    "timeWeek": 563,
+    "timeMonth": 544,
     "timeYear": 1287,
     "dailyMinutesDown": {
       "2024-06-06": 161,
@@ -55,8 +55,7 @@
       "2023-07-16": 312,
       "2023-07-14": 62,
       "2023-07-13": 73,
-      "2023-07-12": 19,
-      "2023-07-11": 16
+      "2023-07-12": 19
     }
   },
   {
@@ -71,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1999,
-    "timeDay": 2200,
-    "timeWeek": 1961,
-    "timeMonth": 1847,
+    "timeDay": 2014,
+    "timeWeek": 1966,
+    "timeMonth": 1857,
     "timeYear": 2021,
     "dailyMinutesDown": {
       "2024-04-09": 27,
@@ -92,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1694,
-    "timeDay": 1644,
-    "timeWeek": 1594,
-    "timeMonth": 1490,
-    "timeYear": 1605,
+    "timeDay": 1478,
+    "timeWeek": 1561,
+    "timeMonth": 1495,
+    "timeYear": 1606,
     "dailyMinutesDown": {}
   },
   {
@@ -104,18 +103,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
     "status": "down",
-    "uptime": "92.79%",
-    "uptimeDay": "72.05%",
-    "uptimeWeek": "86.25%",
-    "uptimeMonth": "88.87%",
+    "uptime": "92.75%",
+    "uptimeDay": "51.08%",
+    "uptimeWeek": "83.26%",
+    "uptimeMonth": "88.18%",
     "uptimeYear": "93.51%",
     "time": 243,
-    "timeDay": 219,
-    "timeWeek": 239,
-    "timeMonth": 257,
+    "timeDay": 229,
+    "timeWeek": 244,
+    "timeMonth": 258,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2024-07-09": 403,
+      "2024-07-10": 34,
+      "2024-07-09": 671,
       "2024-07-08": 266,
       "2024-07-07": 717,
       "2024-07-02": 20,
@@ -189,8 +189,7 @@
       "2023-07-17": 701,
       "2023-07-16": 37,
       "2023-07-15": 432,
-      "2023-07-14": 1036,
-      "2023-07-11": 181
+      "2023-07-14": 1036
     }
   },
   {
@@ -199,18 +198,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/movie.af.ico",
     "slug": "rahanet-movie-af",
     "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "98.77%",
+    "uptime": "98.75%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.75%",
     "time": 1330,
-    "timeDay": 1049,
-    "timeWeek": 1506,
-    "timeMonth": 1216,
+    "timeDay": 1101,
+    "timeWeek": 1521,
+    "timeMonth": 1218,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2024-07-09": 46,
+      "2024-07-09": 35,
       "2024-07-05": 34,
       "2024-07-04": 54,
       "2024-07-03": 23,
@@ -247,7 +246,8 @@
       "2024-05-12": 104,
       "2024-05-11": 222,
       "2024-05-10": 770,
-      "2024-05-09": 338
+      "2024-05-09": 378,
+      "2024-05-08": 42
     }
   }
 ]
