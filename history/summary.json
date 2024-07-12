@@ -103,16 +103,16 @@
     "status": "down",
     "uptime": "92.35%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.55%",
+    "uptimeWeek": "50.45%",
     "uptimeMonth": "82.50%",
-    "uptimeYear": "93.09%",
+    "uptimeYear": "93.08%",
     "time": 244,
     "timeDay": 0,
     "timeWeek": 331,
     "timeMonth": 273,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-07-12": 703,
+      "2024-07-12": 714,
       "2024-07-11": 1188,
       "2024-07-10": 1440,
       "2024-07-09": 671,
@@ -197,17 +197,17 @@
     "url": "http://movie.af/",
     "icon": "https://icons.duckduckgo.com/ip3/movie.af.ico",
     "slug": "rahanet-movie-af",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "55.90%",
+    "uptimeDay": "55.89%",
     "uptimeWeek": "92.05%",
     "uptimeMonth": "96.55%",
     "uptimeYear": "98.80%",
-    "time": 1367,
-    "timeDay": 1339,
-    "timeWeek": 1786,
-    "timeMonth": 1392,
-    "timeYear": 1367,
+    "time": 1372,
+    "timeDay": 1603,
+    "timeWeek": 1861,
+    "timeMonth": 1414,
+    "timeYear": 1372,
     "dailyMinutesDown": {
       "2024-07-12": 242,
       "2024-07-11": 488,
@@ -248,7 +248,7 @@
       "2024-05-13": 280,
       "2024-05-12": 104,
       "2024-05-11": 222,
-      "2024-05-10": 323
+      "2024-05-10": 303
     }
   }
 ]
