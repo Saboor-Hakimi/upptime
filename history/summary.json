@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 1191,
-    "timeDay": 337,
-    "timeWeek": 337,
-    "timeMonth": 468,
+    "time": 1190,
+    "timeDay": 382,
+    "timeWeek": 346,
+    "timeMonth": 465,
     "timeYear": 1265,
     "dailyMinutesDown": {
       "2024-06-06": 161,
@@ -64,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1993,
-    "timeDay": 2092,
-    "timeWeek": 2052,
-    "timeMonth": 1939,
+    "timeDay": 1751,
+    "timeWeek": 1878,
+    "timeMonth": 1929,
     "timeYear": 2019,
     "dailyMinutesDown": {
       "2024-04-09": 27,
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1699,
-    "timeDay": 1401,
-    "timeWeek": 1633,
-    "timeMonth": 1564,
+    "timeDay": 1466,
+    "timeWeek": 1576,
+    "timeMonth": 1567,
     "timeYear": 1611,
     "dailyMinutesDown": {}
   },
@@ -97,15 +97,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
     "status": "up",
-    "uptime": "92.58%",
+    "uptime": "92.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.55%",
+    "uptimeWeek": "73.07%",
     "uptimeMonth": "78.05%",
     "uptimeYear": "93.17%",
     "time": 245,
-    "timeDay": 203,
-    "timeWeek": 303,
-    "timeMonth": 289,
+    "timeDay": 222,
+    "timeWeek": 294,
+    "timeMonth": 290,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2024-07-17": 280,
@@ -183,8 +183,7 @@
       "2023-07-26": 287,
       "2023-07-25": 766,
       "2023-07-22": 430,
-      "2023-07-21": 1440,
-      "2023-07-20": 155
+      "2023-07-21": 1440
     }
   },
   {
@@ -193,18 +192,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/movie.af.ico",
     "slug": "rahanet-movie-af",
     "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "90.38%",
-    "uptimeMonth": "95.75%",
-    "uptimeYear": "98.89%",
+    "uptime": "98.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.25%",
+    "uptimeMonth": "95.78%",
+    "uptimeYear": "98.88%",
     "time": 1360,
-    "timeDay": 1076,
-    "timeWeek": 1192,
+    "timeDay": 1135,
+    "timeWeek": 1198,
     "timeMonth": 1441,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2024-07-18": 15,
       "2024-07-17": 17,
       "2024-07-16": 30,
       "2024-07-14": 21,
@@ -245,7 +243,7 @@
       "2024-05-19": 31,
       "2024-05-16": 54,
       "2024-05-14": 54,
-      "2024-05-13": 136
+      "2024-05-13": 195
     }
   }
 ]
