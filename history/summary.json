@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 1193,
-    "timeDay": 623,
-    "timeWeek": 423,
-    "timeMonth": 445,
-    "timeYear": 1192,
+    "timeDay": 283,
+    "timeWeek": 379,
+    "timeMonth": 430,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2024-06-06": 161,
       "2024-06-05": 290,
@@ -61,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2003,
-    "timeDay": 1774,
-    "timeWeek": 1771,
-    "timeMonth": 2075,
-    "timeYear": 2026,
+    "timeDay": 1653,
+    "timeWeek": 1751,
+    "timeMonth": 2059,
+    "timeYear": 2025,
     "dailyMinutesDown": {
       "2024-04-09": 27,
       "2024-04-08": 27
@@ -82,9 +82,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1670,
-    "timeDay": 1444,
-    "timeWeek": 1295,
-    "timeMonth": 1472,
+    "timeDay": 1203,
+    "timeWeek": 1261,
+    "timeMonth": 1461,
     "timeYear": 1607,
     "dailyMinutesDown": {}
   },
@@ -98,10 +98,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.41%",
     "uptimeMonth": "73.05%",
-    "uptimeYear": "94.14%",
-    "time": 246,
-    "timeDay": 275,
-    "timeWeek": 254,
+    "uptimeYear": "94.20%",
+    "time": 245,
+    "timeDay": 227,
+    "timeWeek": 249,
     "timeMonth": 271,
     "timeYear": 246,
     "dailyMinutesDown": {
@@ -176,8 +176,7 @@
       "2023-08-28": 78,
       "2023-08-17": 26,
       "2023-08-16": 20,
-      "2023-08-10": 22,
-      "2023-08-05": 625
+      "2023-08-10": 22
     }
   },
   {
@@ -187,17 +186,17 @@
     "slug": "rahanet-movie-af",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "94.78%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "95.28%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "95.31%",
     "uptimeYear": "99.17%",
-    "time": 1373,
-    "timeDay": 1051,
-    "timeWeek": 1289,
-    "timeMonth": 1554,
-    "timeYear": 1373,
+    "time": 1372,
+    "timeDay": 1031,
+    "timeWeek": 1227,
+    "timeMonth": 1469,
+    "timeYear": 1372,
     "dailyMinutesDown": {
-      "2024-08-03": 75,
+      "2024-08-03": 65,
       "2024-08-02": 51,
       "2024-08-01": 70,
       "2024-07-31": 34,
@@ -244,7 +243,8 @@
       "2024-05-29": 27,
       "2024-05-26": 98,
       "2024-05-25": 89,
-      "2024-05-24": 107
+      "2024-05-24": 107,
+      "2024-05-23": 30
     }
   }
 ]
