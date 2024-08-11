@@ -1,7 +1,7 @@
 url: http://movie.af/
-status: down
-code: 403
-responseTime: 1101
-lastUpdated: 2024-08-11T05:08:33.531Z
+status: up
+code: 200
+responseTime: 928
+lastUpdated: 2024-08-11T05:37:37.781Z
 startTime: 2023-10-28T21:10:39.080Z
 generator: Upptime <https://github.com/upptime/upptime>
