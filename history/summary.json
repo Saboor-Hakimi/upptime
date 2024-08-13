@@ -186,17 +186,17 @@
     "url": "http://movie.af/",
     "icon": "https://icons.duckduckgo.com/ip3/movie.af.ico",
     "slug": "rahanet-movie-af",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "92.83%",
-    "uptimeMonth": "96.56%",
-    "uptimeYear": "99.08%",
-    "time": 1370,
-    "timeDay": 1115,
-    "timeWeek": 1314,
-    "timeMonth": 1383,
-    "timeYear": 1370,
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "99.09%",
+    "time": 1369,
+    "timeDay": 1122,
+    "timeWeek": 1360,
+    "timeMonth": 1385,
+    "timeYear": 1369,
     "dailyMinutesDown": {
       "2024-08-13": 17,
       "2024-08-11": 29,
@@ -248,8 +248,7 @@
       "2024-06-06": 59,
       "2024-06-01": 52,
       "2024-05-30": 36,
-      "2024-05-29": 27,
-      "2024-05-26": 25
+      "2024-05-29": 27
     }
   }
 ]
