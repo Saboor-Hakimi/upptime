@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 1146,
-    "timeDay": 284,
-    "timeWeek": 416,
-    "timeMonth": 404,
-    "timeYear": 1202,
+    "timeDay": 0,
+    "timeWeek": 449,
+    "timeMonth": 405,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2024-06-06": 161,
       "2024-06-05": 290,
@@ -58,10 +58,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2006,
-    "timeDay": 2119,
-    "timeWeek": 2079,
-    "timeMonth": 2043,
-    "timeYear": 2016,
+    "timeDay": 0,
+    "timeWeek": 1942,
+    "timeMonth": 2054,
+    "timeYear": 2014,
     "dailyMinutesDown": {
       "2024-04-09": 27,
       "2024-04-08": 27
@@ -79,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1646,
-    "timeDay": 1130,
-    "timeWeek": 1983,
-    "timeMonth": 1534,
+    "timeDay": 0,
+    "timeWeek": 2124,
+    "timeMonth": 1540,
     "timeYear": 1611,
     "dailyMinutesDown": {}
   },
@@ -92,13 +92,13 @@
     "slug": "hemis",
     "status": "up",
     "uptime": "95.03%",
-    "uptimeDay": "80.84%",
+    "uptimeDay": "88.69%",
     "uptimeWeek": "89.76%",
     "uptimeMonth": "84.18%",
     "uptimeYear": "94.38%",
     "time": 247,
     "timeDay": 197,
-    "timeWeek": 309,
+    "timeWeek": 321,
     "timeMonth": 267,
     "timeYear": 247,
     "dailyMinutesDown": {
@@ -179,8 +179,7 @@
       "2023-08-30": 87,
       "2023-08-29": 19,
       "2023-08-28": 78,
-      "2023-08-17": 26,
-      "2023-08-16": 20
+      "2023-08-17": 26
     }
   },
   {
@@ -190,17 +189,16 @@
     "slug": "rahanet-movie-af",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "92.88%",
-    "uptimeMonth": "96.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "96.57%",
     "uptimeYear": "99.09%",
     "time": 1370,
-    "timeDay": 1007,
-    "timeWeek": 1440,
-    "timeMonth": 1386,
+    "timeDay": 1035,
+    "timeWeek": 1383,
+    "timeMonth": 1388,
     "timeYear": 1370,
     "dailyMinutesDown": {
-      "2024-08-14": 11,
       "2024-08-13": 62,
       "2024-08-11": 29,
       "2024-08-08": 405,
@@ -250,7 +248,7 @@
       "2024-06-07": 47,
       "2024-06-06": 59,
       "2024-06-01": 52,
-      "2024-05-30": 15
+      "2024-05-30": 36
     }
   }
 ]
