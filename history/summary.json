@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 1142,
-    "timeDay": 316,
-    "timeWeek": 396,
-    "timeMonth": 401,
+    "time": 1140,
+    "timeDay": 293,
+    "timeWeek": 400,
+    "timeMonth": 394,
     "timeYear": 1186,
     "dailyMinutesDown": {
       "2024-06-06": 161,
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2008,
-    "timeDay": 1803,
-    "timeWeek": 1907,
-    "timeMonth": 1889,
-    "timeYear": 2013,
+    "time": 2015,
+    "timeDay": 5600,
+    "timeWeek": 2352,
+    "timeMonth": 2009,
+    "timeYear": 2022,
     "dailyMinutesDown": {
       "2024-04-09": 27,
       "2024-04-08": 27
@@ -77,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1618,
-    "timeDay": 1419,
-    "timeWeek": 1558,
-    "timeMonth": 1524,
-    "timeYear": 1597,
+    "timeDay": 1552,
+    "timeWeek": 1575,
+    "timeMonth": 1527,
+    "timeYear": 1596,
     "dailyMinutesDown": {}
   },
   {
@@ -95,9 +95,9 @@
     "uptimeMonth": "95.67%",
     "uptimeYear": "94.31%",
     "time": 247,
-    "timeDay": 241,
-    "timeWeek": 222,
-    "timeMonth": 249,
+    "timeDay": 232,
+    "timeWeek": 221,
+    "timeMonth": 248,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2024-08-25": 165,
@@ -189,17 +189,16 @@
     "slug": "rahanet-movie-af",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "96.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "96.82%",
     "uptimeYear": "99.12%",
     "time": 1356,
-    "timeDay": 1020,
-    "timeWeek": 996,
-    "timeMonth": 1346,
+    "timeDay": 1024,
+    "timeWeek": 1004,
+    "timeMonth": 1235,
     "timeYear": 1356,
     "dailyMinutesDown": {
-      "2024-08-25": 10,
       "2024-08-23": 19,
       "2024-08-21": 22,
       "2024-08-18": 17,
@@ -250,7 +249,8 @@
       "2024-06-11": 17,
       "2024-06-10": 35,
       "2024-06-08": 46,
-      "2024-06-07": 47
+      "2024-06-07": 47,
+      "2024-06-06": 19
     }
   }
 ]
