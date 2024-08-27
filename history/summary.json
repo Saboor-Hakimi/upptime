@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 1140,
-    "timeDay": 293,
-    "timeWeek": 400,
-    "timeMonth": 394,
-    "timeYear": 1186,
+    "timeDay": 256,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 1185,
     "dailyMinutesDown": {
       "2024-06-06": 161,
       "2024-06-05": 290,
@@ -56,10 +56,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2015,
-    "timeDay": 5600,
-    "timeWeek": 2446,
-    "timeMonth": 2009,
-    "timeYear": 2022,
+    "timeDay": 1565,
+    "timeWeek": 2429,
+    "timeMonth": 2004,
+    "timeYear": 2020,
     "dailyMinutesDown": {
       "2024-04-09": 27,
       "2024-04-08": 27
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1618,
-    "timeDay": 1552,
-    "timeWeek": 1575,
-    "timeMonth": 1527,
+    "timeDay": 1396,
+    "timeWeek": 1567,
+    "timeMonth": 1533,
     "timeYear": 1596,
     "dailyMinutesDown": {}
   },
@@ -89,15 +89,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
     "status": "up",
-    "uptime": "95.55%",
+    "uptime": "95.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.26%",
     "uptimeMonth": "95.67%",
     "uptimeYear": "94.31%",
     "time": 247,
-    "timeDay": 198,
-    "timeWeek": 225,
-    "timeMonth": 248,
+    "timeDay": 197,
+    "timeWeek": 223,
+    "timeMonth": 247,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2024-08-25": 165,
@@ -178,8 +178,7 @@
       "2023-09-12": 340,
       "2023-08-31": 28,
       "2023-08-30": 87,
-      "2023-08-29": 19,
-      "2023-08-28": 78
+      "2023-08-29": 19
     }
   },
   {
@@ -189,17 +188,16 @@
     "slug": "rahanet-movie-af",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "96.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "99.13%",
     "time": 1355,
-    "timeDay": 1032,
-    "timeWeek": 1005,
+    "timeDay": 985,
+    "timeWeek": 1002,
     "timeMonth": 1237,
     "timeYear": 1355,
     "dailyMinutesDown": {
-      "2024-08-26": 11,
       "2024-08-23": 19,
       "2024-08-21": 22,
       "2024-08-18": 17,
@@ -250,7 +248,8 @@
       "2024-06-11": 17,
       "2024-06-10": 35,
       "2024-06-08": 46,
-      "2024-06-07": 47
+      "2024-06-07": 47,
+      "2024-06-06": 19
     }
   }
 ]
