@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/aseelapp.com.ico",
     "slug": "aseelapp",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "97.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 1140,
-    "timeDay": 256,
-    "timeWeek": 390,
-    "timeMonth": 390,
-    "timeYear": 1185,
+    "timeDay": 345,
+    "timeWeek": 364,
+    "timeMonth": 381,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2024-06-06": 161,
       "2024-06-05": 290,
@@ -40,8 +40,7 @@
       "2023-09-13": 47,
       "2023-09-11": 52,
       "2023-08-31": 70,
-      "2023-08-30": 20,
-      "2023-08-29": 23
+      "2023-08-30": 20
     }
   },
   {
@@ -56,8 +55,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2015,
-    "timeDay": 1565,
-    "timeWeek": 2429,
+    "timeDay": 1794,
+    "timeWeek": 2347,
     "timeMonth": 2004,
     "timeYear": 2020,
     "dailyMinutesDown": {
@@ -76,10 +75,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1618,
-    "timeDay": 1396,
-    "timeWeek": 1567,
-    "timeMonth": 1533,
+    "time": 1588,
+    "timeDay": 1483,
+    "timeWeek": 1570,
+    "timeMonth": 1535,
     "timeYear": 1596,
     "dailyMinutesDown": {}
   },
@@ -95,9 +94,9 @@
     "uptimeMonth": "95.71%",
     "uptimeYear": "94.31%",
     "time": 247,
-    "timeDay": 197,
-    "timeWeek": 223,
-    "timeMonth": 247,
+    "timeDay": 221,
+    "timeWeek": 220,
+    "timeMonth": 246,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2024-08-25": 165,
@@ -177,8 +176,7 @@
       "2023-09-13": 269,
       "2023-09-12": 340,
       "2023-08-31": 28,
-      "2023-08-30": 87,
-      "2023-08-29": 19
+      "2023-08-30": 87
     }
   },
   {
@@ -188,17 +186,16 @@
     "slug": "rahanet-movie-af",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "97.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "97.06%",
     "uptimeYear": "99.13%",
     "time": 1353,
-    "timeDay": 1006,
-    "timeWeek": 1009,
-    "timeMonth": 1224,
+    "timeDay": 1024,
+    "timeWeek": 1002,
+    "timeMonth": 1202,
     "timeYear": 1353,
     "dailyMinutesDown": {
-      "2024-08-27": 13,
       "2024-08-23": 19,
       "2024-08-21": 22,
       "2024-08-18": 17,
@@ -249,7 +246,8 @@
       "2024-06-11": 17,
       "2024-06-10": 35,
       "2024-06-08": 46,
-      "2024-06-07": 47
+      "2024-06-07": 47,
+      "2024-06-06": 19
     }
   }
 ]
