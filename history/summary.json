@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 1124,
-    "timeDay": 511,
-    "timeWeek": 412,
-    "timeMonth": 415,
+    "timeDay": 394,
+    "timeWeek": 403,
+    "timeMonth": 417,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2024-06-06": 161,
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2005,
-    "timeDay": 1626,
-    "timeWeek": 1866,
-    "timeMonth": 1803,
-    "timeYear": 1993,
+    "time": 2004,
+    "timeDay": 1512,
+    "timeWeek": 1825,
+    "timeMonth": 1802,
+    "timeYear": 1992,
     "dailyMinutesDown": {
       "2024-04-09": 27,
       "2024-04-08": 27
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1608,
-    "timeDay": 1400,
-    "timeWeek": 1970,
-    "timeMonth": 1606,
-    "timeYear": 1592,
+    "time": 1601,
+    "timeDay": 1051,
+    "timeWeek": 1894,
+    "timeMonth": 1593,
+    "timeYear": 1589,
     "dailyMinutesDown": {}
   },
   {
@@ -89,8 +89,8 @@
     "uptimeMonth": "97.50%",
     "uptimeYear": "94.22%",
     "time": 244,
-    "timeDay": 216,
-    "timeWeek": 209,
+    "timeDay": 198,
+    "timeWeek": 207,
     "timeMonth": 232,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -189,17 +189,17 @@
     "slug": "rahanet-movie-af",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "97.18%",
-    "uptimeMonth": "97.43%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.29%",
-    "time": 1325,
-    "timeDay": 933,
-    "timeWeek": 1152,
+    "time": 1324,
+    "timeDay": 921,
+    "timeWeek": 1150,
     "timeMonth": 1169,
-    "timeYear": 1325,
+    "timeYear": 1324,
     "dailyMinutesDown": {
-      "2024-10-03": 71,
+      "2024-10-03": 59,
       "2024-10-02": 87,
       "2024-10-01": 30,
       "2024-09-30": 33,
@@ -259,7 +259,7 @@
       "2024-07-16": 30,
       "2024-07-14": 21,
       "2024-07-13": 65,
-      "2024-07-12": 429
+      "2024-07-12": 485
     }
   }
 ]
