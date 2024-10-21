@@ -10,11 +10,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.63%",
-    "time": 1126,
-    "timeDay": 317,
-    "timeWeek": 483,
-    "timeMonth": 487,
-    "timeYear": 1169,
+    "time": 1124,
+    "timeDay": 323,
+    "timeWeek": 442,
+    "timeMonth": 491,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2024-10-17": 26,
       "2024-06-06": 161,
@@ -35,8 +35,7 @@
       "2023-11-05": 65,
       "2023-11-04": 46,
       "2023-11-02": 59,
-      "2023-10-25": 68,
-      "2023-10-22": 15
+      "2023-10-25": 68
     }
   },
   {
@@ -51,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2006,
-    "timeDay": 1571,
-    "timeWeek": 1990,
-    "timeMonth": 1885,
-    "timeYear": 1971,
+    "timeDay": 1570,
+    "timeWeek": 1902,
+    "timeMonth": 1887,
+    "timeYear": 1968,
     "dailyMinutesDown": {
       "2024-04-09": 27,
       "2024-04-08": 27
@@ -72,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1573,
-    "timeDay": 1599,
-    "timeWeek": 1514,
+    "timeDay": 1574,
+    "timeWeek": 1544,
     "timeMonth": 1572,
-    "timeYear": 1558,
+    "timeYear": 1559,
     "dailyMinutesDown": {}
   },
   {
@@ -90,8 +89,8 @@
     "uptimeMonth": "98.06%",
     "uptimeYear": "94.15%",
     "time": 243,
-    "timeDay": 198,
-    "timeWeek": 232,
+    "timeDay": 199,
+    "timeWeek": 223,
     "timeMonth": 236,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -191,18 +190,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/movie.af.ico",
     "slug": "rahanet-movie-af",
     "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "90.09%",
-    "uptimeWeek": "92.31%",
-    "uptimeMonth": "95.31%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.41%",
+    "uptimeDay": "92.55%",
+    "uptimeWeek": "92.41%",
+    "uptimeMonth": "95.39%",
+    "uptimeYear": "99.41%",
     "time": 1313,
-    "timeDay": 1441,
-    "timeWeek": 1248,
+    "timeDay": 1446,
+    "timeWeek": 1243,
     "timeMonth": 1201,
     "timeYear": 1313,
     "dailyMinutesDown": {
-      "2024-10-20": 117,
+      "2024-10-20": 107,
       "2024-10-19": 154,
       "2024-10-18": 46,
       "2024-10-17": 98,
@@ -253,7 +252,8 @@
       "2024-08-21": 22,
       "2024-08-18": 17,
       "2024-08-17": 61,
-      "2024-08-13": 62
+      "2024-08-13": 62,
+      "2024-08-11": 29
     }
   }
 ]
