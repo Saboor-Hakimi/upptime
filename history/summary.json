@@ -79,9 +79,9 @@
     "url": "149.54.12.140",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
-    "status": "up",
-    "uptime": "96.70%",
-    "uptimeDay": "86.10%",
+    "status": "down",
+    "uptime": "96.71%",
+    "uptimeDay": "86.09%",
     "uptimeWeek": "96.79%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "94.24%",
@@ -175,8 +175,7 @@
       "2023-12-16": 908,
       "2023-12-15": 1440,
       "2023-12-14": 1389,
-      "2023-12-07": 42,
-      "2023-11-28": 22
+      "2023-12-07": 42
     }
   },
   {
