@@ -6,7 +6,7 @@
     "slug": "aseelapp",
     "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "94.86%",
+    "uptimeDay": "96.48%",
     "uptimeWeek": "95.46%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.66%",
@@ -78,18 +78,19 @@
     "url": "149.54.12.140",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
-    "status": "up",
+    "status": "down",
     "uptime": "97.29%",
-    "uptimeDay": "90.06%",
+    "uptimeDay": "90.05%",
     "uptimeWeek": "96.45%",
     "uptimeMonth": "88.45%",
-    "uptimeYear": "94.35%",
+    "uptimeYear": "94.36%",
     "time": 235,
     "timeDay": 231,
     "timeWeek": 227,
     "timeMonth": 217,
     "timeYear": 234,
     "dailyMinutesDown": {
+      "2025-03-04": 0,
       "2025-03-03": 143,
       "2025-02-28": 124,
       "2025-02-27": 72,
@@ -179,8 +180,7 @@
       "2024-06-03": 248,
       "2024-05-16": 273,
       "2024-05-15": 364,
-      "2024-05-14": 672,
-      "2024-04-08": 53
+      "2024-05-14": 672
     }
   },
   {
