@@ -96,18 +96,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
     "status": "up",
-    "uptime": "97.20%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "89.23%",
-    "uptimeYear": "93.22%",
+    "uptime": "97.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "89.26%",
+    "uptimeYear": "93.19%",
     "time": 226,
     "timeDay": 185,
     "timeWeek": 204,
     "timeMonth": 200,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-07-08": 13,
       "2025-07-07": 41,
       "2025-07-04": 18,
       "2025-07-03": 87,
@@ -200,7 +199,8 @@
       "2024-09-08": 17,
       "2024-08-31": 39,
       "2024-08-30": 117,
-      "2024-08-28": 41
+      "2024-08-28": 41,
+      "2024-08-25": 165
     }
   },
   {
@@ -208,9 +208,9 @@
     "url": "http://movie.af/",
     "icon": "https://icons.duckduckgo.com/ip3/movie.af.ico",
     "slug": "rahanet-movie-af",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.39%",
@@ -220,6 +220,7 @@
     "timeMonth": 1004,
     "timeYear": 1211,
     "dailyMinutesDown": {
+      "2025-07-08": 0,
       "2025-06-23": 19,
       "2025-06-22": 24,
       "2025-06-16": 23,
@@ -271,8 +272,7 @@
       "2024-09-14": 56,
       "2024-09-13": 28,
       "2024-09-12": 88,
-      "2024-09-11": 24,
-      "2024-09-10": 20
+      "2024-09-11": 24
     }
   }
 ]
