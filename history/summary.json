@@ -57,9 +57,9 @@
     "url": "https://jobs.af",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.af.ico",
     "slug": "jobs-af",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -69,6 +69,7 @@
     "timeMonth": 1962,
     "timeYear": 1996,
     "dailyMinutesDown": {
+      "2025-08-06": 0,
       "2025-05-20": 81
     }
   },
@@ -98,12 +99,12 @@
     "status": "up",
     "uptime": "97.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.69%",
+    "uptimeWeek": "85.95%",
     "uptimeMonth": "86.56%",
     "uptimeYear": "92.57%",
     "time": 226,
     "timeDay": 209,
-    "timeWeek": 210,
+    "timeWeek": 211,
     "timeMonth": 226,
     "timeYear": 220,
     "dailyMinutesDown": {
