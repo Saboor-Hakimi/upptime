@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.61%",
     "time": 1379,
     "timeDay": 1507,
-    "timeWeek": 2340,
+    "timeWeek": 2375,
     "timeMonth": 1774,
     "timeYear": 1517,
     "dailyMinutesDown": {
@@ -105,17 +105,17 @@
     "url": "149.54.12.140",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
-    "status": "up",
+    "status": "down",
     "uptime": "97.64%",
-    "uptimeDay": "42.54%",
-    "uptimeWeek": "90.50%",
+    "uptimeDay": "42.53%",
+    "uptimeWeek": "90.73%",
     "uptimeMonth": "96.87%",
     "uptimeYear": "93.77%",
     "time": 221,
     "timeDay": 237,
-    "timeWeek": 230,
+    "timeWeek": 216,
     "timeMonth": 210,
-    "timeYear": 216,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2025-09-25": 223,
       "2025-09-24": 604,
@@ -201,8 +201,7 @@
       "2025-03-03": 143,
       "2025-02-28": 124,
       "2025-02-27": 72,
-      "2025-02-25": 18,
-      "2025-02-22": 17
+      "2025-02-25": 18
     }
   },
   {
