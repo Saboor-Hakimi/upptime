@@ -1,7 +1,7 @@
 url: https://jobs.af
-status: up
-code: 200
-responseTime: 1558
-lastUpdated: 2025-11-17T23:21:54.896Z
+status: down
+code: 500
+responseTime: 164
+lastUpdated: 2025-11-18T11:53:14.917Z
 startTime: 2023-02-04T05:06:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
