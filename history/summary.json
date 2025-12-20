@@ -110,14 +110,14 @@
     "url": "149.54.12.140",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "72.20%",
-    "uptimeWeek": "86.90%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "88.12%",
     "uptimeMonth": "89.27%",
-    "uptimeYear": "97.09%",
+    "uptimeYear": "97.10%",
     "time": 214,
-    "timeDay": 202,
+    "timeDay": 213,
     "timeWeek": 210,
     "timeMonth": 208,
     "timeYear": 212,
@@ -197,7 +197,7 @@
       "2025-08-03": 829,
       "2025-08-01": 218,
       "2025-07-31": 61,
-      "2025-07-30": 55
+      "2025-07-30": 29
     }
   },
   {
