@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 1400,
-    "timeDay": 225,
-    "timeWeek": 241,
-    "timeMonth": 240,
-    "timeYear": 1084,
+    "uptimeYear": "99.86%",
+    "time": 1398,
+    "timeDay": 393,
+    "timeWeek": 234,
+    "timeMonth": 246,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2025-12-20": 32,
       "2025-11-18": 40,
@@ -30,8 +30,7 @@
       "2025-05-29": 97,
       "2025-05-26": 54,
       "2025-05-02": 17,
-      "2025-04-22": 16,
-      "2025-04-11": 25
+      "2025-04-22": 16
     }
   },
   {
@@ -45,11 +44,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.20%",
-    "time": 1773,
-    "timeDay": 578,
-    "timeWeek": 870,
-    "timeMonth": 781,
-    "timeYear": 1660,
+    "time": 1771,
+    "timeDay": 919,
+    "timeWeek": 871,
+    "timeMonth": 788,
+    "timeYear": 1655,
     "dailyMinutesDown": {
       "2026-03-01": 38,
       "2026-01-18": 374,
@@ -80,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1311,
+    "time": 1309,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 569,
+    "timeYear": 530,
     "dailyMinutesDown": {}
   },
   {
@@ -96,12 +95,12 @@
     "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.99%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "96.67%",
     "time": 213,
-    "timeDay": 181,
+    "timeDay": 230,
     "timeWeek": 192,
-    "timeMonth": 202,
+    "timeMonth": 203,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2026-04-06": 103,
@@ -184,16 +183,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/movie.af.ico",
     "slug": "rahanet-movie-af",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.10%",
-    "time": 1649,
-    "timeDay": 2092,
-    "timeWeek": 2453,
-    "timeMonth": 2395,
-    "timeYear": 1906,
+    "time": 1652,
+    "timeDay": 2600,
+    "timeWeek": 2426,
+    "timeMonth": 2414,
+    "timeYear": 1910,
     "dailyMinutesDown": {
       "2026-03-16": 84,
       "2026-02-26": 48,
@@ -236,8 +235,7 @@
       "2025-06-22": 24,
       "2025-06-16": 23,
       "2025-06-14": 17,
-      "2025-04-17": 34,
-      "2025-04-11": 180
+      "2025-04-17": 34
     }
   }
 ]
