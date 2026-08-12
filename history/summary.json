@@ -80,15 +80,15 @@
     "url": "149.54.12.140",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hemis",
-    "status": "down",
+    "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "84.91%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "96.40%",
+    "uptimeDay": "84.49%",
+    "uptimeWeek": "95.55%",
+    "uptimeMonth": "96.41%",
     "uptimeYear": "96.31%",
     "time": 212,
-    "timeDay": 0,
-    "timeWeek": 197,
+    "timeDay": 215,
+    "timeWeek": 199,
     "timeMonth": 204,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -172,7 +172,7 @@
       "2026-08-08": 69,
       "2026-08-10": 120,
       "2026-08-11": 198,
-      "2026-08-12": 55
+      "2026-08-12": 61
     }
   },
   {
@@ -279,7 +279,7 @@
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-06-15": 317,
-      "2026-08-12": 55,
+      "2026-08-12": 66,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
