@@ -13,7 +13,7 @@
     "time": 856,
     "timeDay": 171,
     "timeWeek": 219,
-    "timeMonth": 208,
+    "timeMonth": 207,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2025-08-19": 22,
@@ -37,7 +37,7 @@
     "time": 1442,
     "timeDay": 1532,
     "timeWeek": 1069,
-    "timeMonth": 900,
+    "timeMonth": 914,
     "timeYear": 1299,
     "dailyMinutesDown": {
       "2025-08-23": 391,
@@ -78,14 +78,14 @@
     "slug": "hemis",
     "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "93.81%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "96.67%",
+    "uptimeDay": "94.43%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "96.56%",
+    "uptimeYear": "96.66%",
     "time": 212,
     "timeDay": 219,
     "timeWeek": 210,
-    "timeMonth": 205,
+    "timeMonth": 206,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2026-01-03": 231,
@@ -168,7 +168,7 @@
       "2026-08-13": 48,
       "2026-08-14": 148,
       "2026-08-16": 48,
-      "2026-08-17": 1
+      "2026-08-17": 32
     }
   },
   {
@@ -181,7 +181,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.30%",
+    "uptimeYear": "70.29%",
     "time": 2091,
     "timeDay": 0,
     "timeWeek": 0,
@@ -274,7 +274,7 @@
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-06-15": 317,
-      "2026-08-17": 1,
+      "2026-08-17": 32,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
